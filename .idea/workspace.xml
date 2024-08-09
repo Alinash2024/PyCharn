@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ae7888c-917c-4661-ba3e-ff056f0ae2aa" name="Changes" comment="План работы первой">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="9ae7888c-917c-4661-ba3e-ff056f0ae2aa" name="Changes" comment="План работы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -48,7 +54,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "test",
     "last_opened_file_path": "C:/Users/Public/pythonProject2",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -114,12 +120,30 @@
       <option name="project" value="LOCAL" />
       <updated>1723212329465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="План работы пер">
+      <option name="closed" value="true" />
+      <created>1723226036309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723226036309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="План работы">
+      <option name="closed" value="true" />
+      <created>1723226112159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723226112159</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="План работы первой лекции" />
     <MESSAGE value="План работы первой" />
-    <option name="LAST_COMMIT_MESSAGE" value="План работы первой" />
+    <MESSAGE value="План работы пер" />
+    <MESSAGE value="План работы" />
+    <option name="LAST_COMMIT_MESSAGE" value="План работы" />
   </component>
 </project>
